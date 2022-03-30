@@ -1,6 +1,6 @@
-global.owner = ['6281515474080'] // Put your number here
-global.mods = ['6281515474080'] // Want some help?
-global.prems = ['6281515474080'] // Premium user has unlimited limit
+global.owner = ['6283804343232'] // Put your number here
+global.mods = ['6283804343232'] // Want some help?
+global.prems = ['6283804343232'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -28,9 +28,9 @@ global.APIKeys = { // APIKey Here
 
 //===========Sticker WM============//
 global.packname = 'Made by'
-global.author = 'Koleksi BOT'
+global.author = 'Bot-Ku'
 
-global.wm = 'Made by : Koleksibot'
+global.wm = 'Made by : Bot-Ku'
 global.wait = '*tunggu sedang diproses...*'
 global.eror = '*maaf server sedang sibuk*'
 
@@ -40,7 +40,7 @@ global.lig = 'https://instagram.com/cyber_mrlinkerrorsystemoffical'
 
 //========Url 2 Template Buttons=========//
 global.dtu2 = 'Group Bot WhatsApp'
-global.urlnya2 = 'https://chat.whatsapp.com/'
+global.urlnya2 = 'https://chat.whatsapp.com/G7feMT0blJi6j3UvjHOyjK'
 
 //=============callButtons=============//
 global.dtc = 'Source Code'

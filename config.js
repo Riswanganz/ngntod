@@ -36,7 +36,7 @@ global.eror = '*maaf server sedang sibuk*'
 
 //========Url 1 Template Buttons=========//
 global.ig = 'Instagram Owner'
-global.lig = 'https://instagram.com/cyber_mrlinkerrorsystemoffical'
+global.lig = 'https://instagram.com/memes.lucu01'
 
 //========Url 2 Template Buttons=========//
 global.dtu2 = 'Group Bot WhatsApp'
@@ -44,7 +44,7 @@ global.urlnya2 = 'https://chat.whatsapp.com/G7feMT0blJi6j3UvjHOyjK'
 
 //=============callButtons=============//
 global.dtc = 'Source Code'
-global.urlnya2 = 'https://s.id/koleksibotku'
+global.urlnya2 = 'https://github.com/Riswanganz'
 
 
 global.multiplier = 69 // The higher, The harder levelup
